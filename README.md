@@ -1,6 +1,6 @@
+# Smart Voting System using Arduino Uno and TFT Display
 
-# Smart-Voting-System-Arduino
-Arduino-based Smart Voting System with TFT Display, Password Protection, Vote Locking, Winner Detection and Result Dashboard.
+An embedded electronic voting machine developed using **Arduino Uno**, **ILI9341 TFT Display**, and **Embedded C**. The system provides secure password-protected administration, vote locking/unlocking, live result visualization, winner detection, and an interactive graphical user interface.
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Arduino_Uno-blue)
