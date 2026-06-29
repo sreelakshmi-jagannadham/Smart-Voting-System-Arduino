@@ -62,7 +62,7 @@ Future improvements include:
 ### 🏠 Home Screen
 
 <p align="center">
- <img src="images/home_screen.png">
+ <img src="images/homescreen.png">
 </p>
 
 ---
