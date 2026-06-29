@@ -62,7 +62,7 @@ Future improvements include:
 ### 🏠 Home Screen
 
 <p align="center">
-  <img src="images/home_screen.png" width="800">
+ <img src="images/home_screen.png">
 </p>
 
 ---
@@ -94,7 +94,7 @@ Future improvements include:
 ### 📊 Result Dashboard
 
 <p align="center">
-  <img src="images/results_dashboard.png" width="800">
+  <img src="images/result_dashboard.png" width="800">
 </p>
 
 ---
@@ -118,8 +118,10 @@ Future improvements include:
 ### ✅ Access Granted
 
 <p align="center">
-  <img src="images/access_granted.png" width="800">
+  <img src="images/acess_granted.png" width="800">
 </p>
+
+
 ## ▶️ Simulation
 
 Wokwi Project:
