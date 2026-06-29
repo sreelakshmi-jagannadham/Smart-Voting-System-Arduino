@@ -1,3 +1,9 @@
++------------------------------------------------------+
+|             SMART VOTING SYSTEM                      |
+|           Arduino + TFT + Password                   |
+|        (Circuit image or project collage)            |
++------------------------------------------------------+
+
 # Smart-Voting-System-Arduino
 Arduino-based Smart Voting System with TFT Display, Password Protection, Vote Locking, Winner Detection and Result Dashboard.
 
@@ -48,6 +54,22 @@ Future improvements include:
 - Wokwi Simulator
 - Adafruit GFX Library
 - Adafruit ILI9341 Library
+
+## 📌 Arduino Pin Connections
+
+| Component | Arduino Pin |
+|------------|-------------|
+| TFT CS | D10 |
+| TFT DC | D9 |
+| TFT RST | D8 |
+| Candidate A | D2 |
+| Candidate B | D3 |
+| Candidate C | D4 |
+| Candidate D | D5 |
+| Lock Button | A0 |
+| Unlock Button | A1 |
+| Reset Button | A2 |
+| Buzzer | A3 |
 
 ## 📸 Project Screenshots
 
