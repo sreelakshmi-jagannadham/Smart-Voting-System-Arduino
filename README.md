@@ -49,7 +49,6 @@ Future improvements include:
 - Adafruit GFX Library
 - Adafruit ILI9341 Library
 
-
 ## 📸 Project Screenshots
 
 ### 🔌 Circuit Diagram
