@@ -70,7 +70,7 @@ Future improvements include:
 ### ✅ Vote Recorded
 
 <p align="center">
-  <img src="images/vote_recorded.png" width="800">
+  <img src="images/vote_record.png" width="800">
 </p>
 
 ---
